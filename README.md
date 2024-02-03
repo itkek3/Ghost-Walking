@@ -10,4 +10,4 @@ first game
 2.<b>PluginYG</b> - плагин от Яндекс игр позволяющий придать билду нужный вид под площадку и настроить рекламу(https://t.me/yandexgame_plugin)<br>
 3.<b>WEB AUDIO PLUGIN</b> - плагин для работы со звуком, я его использовал так как у площадки имеются определённые проблемы с звуком из стокового Unity (https://t.me/ChatKozlovDev)<br>
 
-Страничка с игрой на платформе: https://yandex.ru/games/app/259575?lang=ru 
+Страничка с игрой на платформе(мобильная,desctop версии): https://yandex.ru/games/app/259575?lang=ru 
