@@ -1,5 +1,6 @@
 # Ghost-Walking
-![image](https://github.com/itkek3/Ghost-Walking/assets/88595775/9824ae15-c256-461b-b245-e0b9e5255369)
+![image](https://github.com/itkek3/Ghost-Walking/assets/88595775/7705625a-e9da-42a6-934e-4a27b77826c2)
+
 
 first game
 
@@ -8,3 +9,5 @@ first game
 <b>WebGL - версия игры под web разработку</b><br>
 <b>PluginYG</b> - плагин от Яндекс игр позволяющий придать билду нужный вид под площадку и настроить рекламу(https://t.me/yandexgame_plugin)<br>
 <b>WEB AUDIO PLUGIN</b> - плагин для работы со звуком, я его использовал так как у площадки имеются определённые проблемы с звуком из стокового Unity (https://t.me/ChatKozlovDev)<br>
+
+Страничка с игрой на плотформе: https://yandex.ru/games/app/259575?lang=ru 
