@@ -1,4 +1,6 @@
 # Ghost-Walking
+![image](https://github.com/itkek3/Ghost-Walking/assets/88595775/9824ae15-c256-461b-b245-e0b9e5255369)
+
 first game
 
 Это моя первая полноценная игра на Unity.<br>
